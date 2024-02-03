@@ -7,3 +7,5 @@ assets/*
 .idea
 test.py
 .venv
+venv/
+trip_planner/venv/
